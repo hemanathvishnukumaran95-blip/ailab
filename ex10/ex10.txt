@@ -1,0 +1,12 @@
+===================================
+   AI CATTLE HEALTH MONITORING
+===================================
+
+Enter body temperature (°C): 40.5
+Enter heart rate (BPM): 100
+Enter activity level (0-100): 20
+
+----------- AI ANALYSIS -----------
+Health Status : ABNORMAL
+Alert         : Health check required!
+-----------------------------------
